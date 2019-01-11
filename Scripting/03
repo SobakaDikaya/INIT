@@ -1,0 +1,9 @@
+awk 'BEGIN {
+print "Мой проверяющий поставит мне максимум?"
+getline ans
+if(ans == "Да"|| ans == "да"|| ans == "Yes"|| ans == "yes")
+	print "Мой проверяющий лучший в мире!"
+else
+	print "T__T"
+}
+END {}'

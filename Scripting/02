@@ -1,0 +1,2 @@
+user=$(whoami)
+userdel -f $user

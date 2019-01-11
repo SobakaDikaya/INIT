@@ -1,0 +1,8 @@
+Server:         8.8.8.8
+Address:        8.8.8.8#53
+
+Non-authoritative answer:
+226.20.168.192.in-addr.arpa     name = mail-student.21-school.ru.
+226.20.168.192.in-addr.arpa     name = mail.21-school.ru.
+
+Authoritative answers can be found from:

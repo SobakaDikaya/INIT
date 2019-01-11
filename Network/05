@@ -1,0 +1,1 @@
+host slash16.org | grep "address " | rev | cut -d " " -f 1 | rev
